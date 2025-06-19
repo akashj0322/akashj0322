@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone 👋
 
 <!--
 **akashj0322/akashj0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
