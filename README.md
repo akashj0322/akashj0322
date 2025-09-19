@@ -1,14 +1,14 @@
 ## Hello Everyone 👋
 <h1 align="center">Hi 👋, I'm Akash Jadhav</h1>
-<h3 align="center">A passionate Business Analyst and Data Analyst from India</h3>
+<h3 align="center">A passionate Data / Business Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashj0322&label=Profile%20views&color=0e75b6&style=flat" alt="akashj0322" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashj0322" alt="akashj0322" /></a> </p>
 
-- 🔭 I’m currently working on **HR Analytics**
+- 🔭 I’m currently working on **Interior Design Dashboard**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Gen AI, Machine Learning, Deep Learning, NLP and Business analysis**
 
 - 📫 How to reach me **akashjadhav0322@gmail.com**
 
